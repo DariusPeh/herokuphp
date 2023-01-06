@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+    {
+      "name": "Darius Peh",
+      "email": "21015463@myrp.edu.sg"
+    }
+  ],
+  "require": {
+  }
+}
